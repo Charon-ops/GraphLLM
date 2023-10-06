@@ -1,1 +1,1 @@
-python main.py
+python main.py --learning_rate 0

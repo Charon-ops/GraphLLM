@@ -4,6 +4,6 @@ __pycache__/
 *.pth
 
 # special large file
-*mccalllum/*
-
+dataset/
+# this dict will only be placed in server
 
